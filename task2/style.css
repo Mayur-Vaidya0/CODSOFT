@@ -1,0 +1,131 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+.outernav{
+    height:5vh;
+    width:auto;
+    color:white;
+    display:flex;
+    background-color: rgb(53, 45, 101);
+    align-items:center;
+    font-size:3vh;
+}
+.icon{
+    color:gold;
+}  
+.centerhead{
+    display: flex;
+    margin-left:50vw;
+    margin-right:30vw;
+}
+.outericons{
+    display: flex;
+    font-size:2vh;
+}
+.register{
+    display: flex;
+    margin-right:1vw;
+    background-color: black;
+}
+.regicon{
+    color:gold;
+}
+.signin{
+    display:flex;
+    background-color: black;
+}
+.signicon{
+    color:gold;
+}
+.namesign{
+    color:orange;
+    background-color: black;
+}
+.jersey-10-regular {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+.outericons{
+    display: flex;
+    align-items:center;
+    /* margin-left: 80vw; */
+}
+.innernav{
+    height:4vh;
+    width:auto;
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    display: flex;
+    font-style: normal;
+    background-color: rgb(37, 37, 96);
+    color:white;
+    justify-content: space-evenly;
+    font-size:2vh;
+
+}
+.list{
+    display: flex;
+    list-style-type:none;
+}
+li{
+    margin-right:10vw;
+    margin-left:10vw
+}
+.contactme{
+    font-size: large;
+    color:white;
+    background-color: black;
+}
+section{
+    height:100vh;
+    width:auto;
+    color:white;
+    background-color: pink;
+    background-image: url(bgmi.jpg);
+    background-size:cover;
+}
+main{
+    padding-top:40vh;
+    padding-left:16vw;
+}
+h1{
+    font-size:1.5vw;
+}
+p{
+    width:40vw;
+}
+.download{
+    margin-left:15vw;
+    margin-top:5vh;
+}
+.downloadbox{
+    background-color:orange;
+    color:white;
+    height:5vh;
+    width:10vw;
+    font-size:1.2vw;
+}
+.border{
+    border:1.5px solid transparent;
+}
+.border:hover{
+    border:1.5px solid white;
+}
+.main-symbols{
+    margin-left:15vw;
+    margin-top:1vh;
+}
+.symbols{
+    height:3vh;
+    width:3vh;
+    margin-bottom:5vh;
+    border:1px solid black;
+    border-radius:50%;
+}
+.copyright{
+    margin-top:1vh;
+    margin-left:15vw;
+}
